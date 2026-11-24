@@ -5,9 +5,9 @@ export function DarkModeToggle() {
   const [dark, setDark] = useState(true);
 
   useEffect(() => {
-    const saved = localStorage.getItem('theme') === 'dark';
-    setDark(saved);
-    if (saved) document.body.setAttribute('data-bs-theme', 'dark');
+    // const saved = localStorage.getItem('theme') === 'dark';
+    // setDark(saved);
+    if (dark) document.body.setAttribute('data-bs-theme', 'dark');
   }, []);
 
   function changeTheme() {
