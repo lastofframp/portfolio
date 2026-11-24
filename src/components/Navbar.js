@@ -38,7 +38,7 @@ export default function Navbar() {
 
             <ul className="top-right text-end list-unstyled list-inline mb-0 mt-2 mt-sm-0 nav-social">
                 {/* <li className="list-inline-item me-2"><a target="_blank" href="https://www.linkedin.com/in/daylin-armstead-b4bba6277/" rel='noreferrer'><i className="mdi mdi-linkedin"></i></a></li> */}
-                <li className="list-inline-item me-2"><a target="_blank" href="https://github.com/daylinarmstead" rel='noreferrer'><i className="mdi mdi-github-circle"></i></a></li>
+                <li className="list-inline-item me-2"><a target="_blank" href="https://github.com/lastofframp" rel='noreferrer'><i className="mdi mdi-github-circle"></i></a></li>
             </ul>
             
         </div> 
