@@ -1,0 +1,7 @@
+{
+  "name": "daylin-portfolio-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev":"next dev","build":"next build","start":"next start"},
+  "dependencies": {"next":"15.5.29","react":"18.3.1","react-dom":"18.3.1","react-feather":"2.0.10","react-type-animation":"3.2.0"}
+}
