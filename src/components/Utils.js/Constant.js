@@ -95,7 +95,7 @@ export const projectsList = {
       imgPath: 'assets/images/portfolio/benekiva.png',
       title: 'Benekiva Core',
       techStack: ['Angular', 'Node', 'Express', 'MongoDB', 'Azure'],
-      url: "https://www.amishtables.com/",
+      url: "https://www.benekiva.com/",
       description: 'This is the insurance claims management system I recently worked on. \n My role is to upgrade the Angular app to a modern version, refactor legacy code, and ensure backward compatibility via testing.\n I enhance API integration with the Express/Node.js backend while collaborating in an agile, cross-time-zone team.'
     }
   };
